@@ -12,4 +12,12 @@ Für eine einwandfreie Funktion muss ein aktueller Treiber installiert sein.
 ✅ Vorgabe der Ausgabegröße. Zur Zeit ist für diese Funktion keine Mehrfachauswahl möglich\
 ✅ Skalierung auf 4K (3840x2160) ffmpeg mit Lanczos\
 ✅ Fortschrittsfenster\
-✅ Abbruch möglich
+✅ Abbruch möglich\
+
+# Installation
+
+install.sh erstellt eine virtuelle Python Umgebung mit tkinterdnd2\
+zen_install.sh macht das gleiche, nur mit einer grafischen Oberfläche\
+Dazu muss allerdings Zenity installiert sein.
+
+Die Linux-Video-Encoder.py kann in ein beliebiges Verzeichnis verschoben werden
