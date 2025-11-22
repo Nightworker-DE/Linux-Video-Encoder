@@ -2,7 +2,7 @@
 Der Linux-Video-Encoder hat folgende Funktionen:
 
 Die Konvertierung mit ffmpeg und der Hardwareunterstützung für Grafikkarten.
-Für eine einwandfreie Funktion muss ein aktueller Treiber installiert sein.
+Für eine einwandfreie Funktion muss ein aktueller Treiber und python3 installiert sein.
 
 ✅ Unterstützung: NVIDIA (NVENC); AMD (AMF/VAAPI); Intel (VAAPI); CPU (Software)\
 ✅ Der Audio-Codec im Videofile kann geändert werden: PCM 16bit, AAC, Flac\
