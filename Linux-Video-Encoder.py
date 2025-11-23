@@ -33,12 +33,16 @@ except Exception as e:
     )
     raise SystemExit from e
 
+# >>> DESIGN_START
 # -------------------- Design / Farben --------------------
-BG = "#d9d9d9"   # Fensterhintergrund
-FIELD = "#efefef"
-TEXT = "#000000"
-ACCENT = "#a0a0a0"
+BG = "#1e1e1e"
+FIELD = "#2a2a2a"
+FIELD2 = "#3d3b3b"
+FIELD3 = "#595959"
+TEXT = "#ffffff"
+ACCENT = "#3a3a3a"
 PROG = "#4b9e8c"
+# >>> DESIGN_END
 
 # -------------------- Hilfsfunktionen --------------------
 def which_bin(name):
